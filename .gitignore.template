@@ -1,0 +1,3 @@
+# Fichier volontairement incomplet, fourni par l'équipe dev.
+# Mission 0 : le renommer en .gitignore et le compléter.
+node_modules/
